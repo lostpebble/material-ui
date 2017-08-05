@@ -2,7 +2,7 @@
   "name": "material-ui-build",
   "private": true,
   "author": "Material-UI Team",
-  "version": "0.18.8-branch",
+  "version": "0.18.8-branch2",
   "description": "React Components that Implement Google's Material Design.",
   "main": "./src/index.js",
   "keywords": [
